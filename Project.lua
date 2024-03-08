@@ -1,0 +1,8 @@
+Project = {
+    name = "DepB",
+    uuid = "5a015884-e4e3-405f-b3ca-9cfaf43a7039",
+    authors = {"rrhiemstar<rrhiemstar@gmail.com>"},
+    version = "0.1.0",
+    deps = {}
+}
+return Project
